@@ -13,7 +13,7 @@ The following are....
 - MBA General Management
 - BA Economics
 
-## Acquired skills
+## Practical skills
 - *Web development technologies* - HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, TypeScript, React.js, Node.js, Express.js, Prisma ORM
 - *Database systems* - SQL(SQL Server, PostgreSQL, SQLite, MySQL), NoSQL(Firebase, MongoDB)
 - *Mobile app development technologies* - Dart, Flutter
