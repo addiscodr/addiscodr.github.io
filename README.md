@@ -7,7 +7,8 @@ Below, I list down some of the projects that I accomplished as follows:
 
 
 ## Certifications
-The following are....
+- [Android Developer Fundamentals](https://drive.google.com/file/d/1QRlJ0w0x3kDcKMPkPGn6gM5B-V1PorgK/view?usp=sharing)
+  
 
 ## Educational background
 - MBA General Management
