@@ -16,7 +16,8 @@ Below, I list down some of the projects that I accomplished as follows:
 
 ## Practical skills
 - *Web development technologies* - HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, React.js, Node.js, Express.js, Prisma ORM
-- *Database systems* - SQL(SQL Server, PostgreSQL, SQLite, MySQL), NoSQL(Firebase, MongoDB)
+- *Database* - SQLite, Firebase, MongoDB
+- 
 - *Mobile app development technologies* - Dart, Flutter
 - *Version control syst
 - em* - Git, Github
