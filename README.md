@@ -15,10 +15,11 @@ Below, I list down some of the projects that I accomplished as follows:
 - BA Economics
 
 ## Practical skills
-- *Web development technologies* - HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, TypeScript, React.js, Node.js, Express.js, Prisma ORM
+- *Web development technologies* - HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, React.js, Node.js, Express.js, Prisma ORM
 - *Database systems* - SQL(SQL Server, PostgreSQL, SQLite, MySQL), NoSQL(Firebase, MongoDB)
 - *Mobile app development technologies* - Dart, Flutter
-- *Version control system* - Git, Github
+- *Version control syst
+- em* - Git, Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
 ## References
