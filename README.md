@@ -1,5 +1,5 @@
 ## About me
-Through online training and self-taught endeavors, I've acquired skills that help me to perform web and mobile app development.
+Through online training and self-taught endeavors, I've managed to acquire skills that help me to perform Mobile App Development and API Development for backend services.
 
 Below, I list down some of the projects that I accomplished as follows:
 
@@ -17,10 +17,8 @@ Below, I list down some of the projects that I accomplished as follows:
 ## Practical skills
 - *Web development technologies* - HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, React.js, Node.js, Express.js, Prisma ORM
 - *Database* - SQLite, Firebase, MongoDB
-- 
 - *Mobile app development technologies* - Dart, Flutter
-- *Version control syst
-- em* - Git, Github
+- *Version control system* - Git, Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
 ## References
