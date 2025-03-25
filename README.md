@@ -1,7 +1,7 @@
 ## About me
 Through online training and self-taught endeavors, I've managed to acquire skills that help me to perform Mobile App Development and API Development for backend services.
 
-Below, I list down some of the projects that I accomplished as follows:
+Below are a list of my credentials:
 
 ## Projects 
 
