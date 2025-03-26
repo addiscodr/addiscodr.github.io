@@ -1,5 +1,5 @@
 ## About me
-Currently, I am working as head of planning and business development department in a company which is engaged in the petroleum products import and supply business. In addition, Through online training and self-taught endeavors, I've managed to acquire skills that help me to perform Mobile App Development and API Development for backend services, and have developed a number of mobile apps...
+Currently, I am working as head of planning and business development department in a company which is engaged in the petroleum products import and supply business. In addition, Through online training and self-taught endeavors, I've acquired skills that help me to develop Mobile Apps and Nodejs API Development, and have showcased a number of mobile apps specially for Android.
 
 Below are a list of my credentials:
 
@@ -19,6 +19,7 @@ Below are a list of my credentials:
 - *Database* - SQLite, Firebase, MongoDB
 - *Mobile app development technologies* - Dart, Flutter
 - *Version control system* - Git, Github
+- Generative AI
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
 ## References
