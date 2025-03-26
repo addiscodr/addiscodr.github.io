@@ -18,8 +18,8 @@ Below are a list of my credentials:
 - *Backend API development technologies* - JavaScript, Node.js, Express.js, EJS, Prisma ORM
 - *Database* - SQLite, Firebase, MongoDB
 - *Mobile app development technologies* - Java, Kotlin, Dart, Flutter
-- *Version control system* - Git, Github
 - Generative AI
+- *Version control system* - Git, Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
 ## References
