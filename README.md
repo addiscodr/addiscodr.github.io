@@ -22,7 +22,7 @@ Below are a list of my credentials:
 - *Version control system* - Git, Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
-## References
+## Reference
 - [Stack Overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
   
 
