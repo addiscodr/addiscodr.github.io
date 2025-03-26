@@ -1,5 +1,5 @@
 ## About me
-Currently, I am working as head of planning and business development department in a company which is engaged in the petroleum products import and supply business. In addition, Through online training and self-taught endeavors, I've acquired skills that help me to develop Mobile Apps and Nodejs API Development, and have showcased a number of mobile apps specially for Android.
+Currently, I am working as head of planning and business development department in a company that is engaged in the petroleum products import and supply business. In addition, Through online training and self-taught endeavors, I've acquired skills that help me to develop Mobile Apps and Nodejs API Development, and have showcased a number of mobile apps specially for Android.
 
 Below are a list of my credentials:
 
