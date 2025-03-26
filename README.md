@@ -15,9 +15,9 @@ Below are a list of my credentials:
 - BA Economics
 
 ## Practical skills
-- *Web development technologies* - HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, React.js, Node.js, Express.js, Prisma ORM
+- *Backend API development technologies* - JavaScript, Node.js, Express.js, Prisma ORM
 - *Database* - SQLite, Firebase, MongoDB
-- *Mobile app development technologies* - Dart, Flutter
+- *Mobile app development technologies* - Kotlin, Dart, Flutter
 - *Version control system* - Git, Github
 - Generative AI
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
