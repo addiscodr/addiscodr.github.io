@@ -16,7 +16,7 @@ Below are a list of my credentials:
 
 ## Practical skills
 - *Backend Web and API development technologies* - HTML5, CSS3, JavaScript, Node.js, Express.js, EJS, Prisma ORM
-- *Database* - SQLite, Firebase, MongoDB
+- *Databases* - SQLite, Firebase, MongoDB
 - *Mobile app development technologies* - Kotlin, Dart, Flutter
 - Generative AI
 - *Version control system* - Git, Github
