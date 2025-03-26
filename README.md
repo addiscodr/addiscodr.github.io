@@ -15,7 +15,7 @@ Below are a list of my credentials:
 - BA Economics
 
 ## Practical skills
-- *Backend Web and API development technologies* - JavaScript, Node.js, Express.js, EJS, Prisma ORM
+- *Backend Web and API development technologies* - HTML5, CSS3, JavaScript, Node.js, Express.js, EJS, Prisma ORM
 - *Database* - SQLite, Firebase, MongoDB
 - *Mobile app development technologies* - Kotlin, Dart, Flutter
 - Generative AI
