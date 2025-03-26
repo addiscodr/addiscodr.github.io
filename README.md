@@ -18,7 +18,7 @@ Below are a list of my credentials:
 - *Backend Web and API development technologies* - HTML5, CSS3, JavaScript, Node.js, Express.js, EJS, Prisma ORM
 - *Databases* - SQLite, Firebase, MongoDB
 - *Mobile app development technologies* - Kotlin, Dart, Flutter
-- Generative AI
+- Generative AI, ChatGPT 4o
 - *Version control system* - Git, Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
