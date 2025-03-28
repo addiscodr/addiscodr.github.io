@@ -1,5 +1,5 @@
 ## About me
-I currently serve as the Head of Planning and Business Development at a company specializing in the importation and supply of petroleum products. In parallel, through online training and self-learning, I have developed skills in mobile app development, successfully showcasing several apps tailord for the Android ecosystem. Additionally, I have a strong passion for building backend web systems and APIs.
+I currently serve as the Head of Planning and Business Development at a company specializing in the importation and supply of petroleum products. In parallel, through online training and self-learning, I have developed skills in mobile app development, successfully showcasing several apps tailord for the Android ecosystem. 
 
 Below are a list of my credentials:
 
