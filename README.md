@@ -9,14 +9,11 @@ Below are a list of my credentials:
 ## Certifications
 - [Android Developer Fundamentals](https://drive.google.com/file/d/1UjeESqg3jobyHNj9kSU57oYM49UW_hRT/view?usp=sharing)
 - [Programming Fundamentals](https://drive.google.com/file/d/1vHmdOh2nMIMzkh4RmBYhPQY13tFYigyv/view?usp=sharing)
-Below are a list of my credentials:
+  
 
 ## Projects 
 
-
-## Certifications
-- [Android Developer Fundamentals](https://drive.google.com/file/d/1UjeESqg3jobyHNj9kSU57oYM49UW_hRT/view?usp=sharing)
-  
+ 
 
 ## Educational background
 - MBA General Management
