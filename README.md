@@ -21,7 +21,7 @@ Below are a list of my credentials:
 - MBA General Management
 - BA Economics
 
-## Reference
+## Contributions
 - [Stack Overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
   
 
