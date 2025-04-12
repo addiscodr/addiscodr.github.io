@@ -11,7 +11,7 @@ Below are a list of my credentials:
 - [Programming Fundamentals](https://drive.google.com/file/d/1vHmdOh2nMIMzkh4RmBYhPQY13tFYigyv/view?usp=sharing)
 
 ## Practical skills
-- *Mobile App Development Technologies* - Android, Kotlin, JetPack Compose, Flutter, Dart
+- *Mobile App Development Technologies* - Android, Kotlin, JetPack Compose
 - *Databases* - SQLite, Firebase, MongoDB, Cloudinary
 - Generative AI, ChatGPT 4o
 - *Version control system* - Git, Github
