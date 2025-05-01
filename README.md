@@ -12,7 +12,7 @@ Below are a list of my credentials:
 
 ## Practical skills
 - *Mobile App Development Technologies* - Kotlin, Android, Jetpack Compose
-- *Databases* - SQLite, Firebase, MongoDB
+- *Databases* - Room, SQLite, Firebase, MongoDB
 - Generative AI, ChatGPT 4o
 - *Version control system* - Git, Github
 - *Operating systems* - Windows 11, Linux (Ubuntu)
