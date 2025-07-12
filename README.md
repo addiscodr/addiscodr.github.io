@@ -22,7 +22,7 @@ Below are a list of my credentials:
 
 ## Educational background
 - MBA General Management
-- Economics
+- BA Economics
   
 
   
