@@ -12,7 +12,7 @@ Below are a list of my credentials:
 
 ## Practical skills
 - *Mobile App Development Technologies* - Dart, Flutter, Kotlin, Android
-- *State management technologies* - Provuder, Riverpod, BloC 
+- *State management technologies* - Provider, Riverpod, BloC 
 - *Databases* - Hive, Sqflite,  Firebase, MongoDB
 - Generative AI, ChatGPT
 - *Version control system* - Git, Github
