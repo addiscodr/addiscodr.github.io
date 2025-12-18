@@ -1,5 +1,5 @@
 ## About me
-I currently serve as the Head of Planning and Business Development at a company specializing in the importation and supply of petroleum products. In parallel, through online training and self-learning, I have developed skills in mobile app development, successfully showcasing several apps tailored for the Android and iOS ecosystems. 
+I currently serve as the Head of Planning and Business Development at a company specializing in the importation and supply of petroleum products. In parallel, through online training and self-learning, I have developed skills in a multi-platform app development, successfully showcasing several apps specifically tailored for the Android and iOS ecosystems. 
 
 Below are a list of my credentials:
 
@@ -13,7 +13,7 @@ Below are a list of my credentials:
 ## Practical skills
 - *Mobile App Development Technologies* - Dart, Flutter, Kotlin, Android,
 - *Databases* - Hive, Sqflite,  Firebase, MongoDB
-- Generative AI, ChatGPT 4o
+- Generative AI, ChatGPT
 - *Version control system* - Git, Github
 - *Operating systems* - Windows 11, Linux (Ubuntu)
 
