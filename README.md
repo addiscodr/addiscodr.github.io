@@ -14,7 +14,7 @@ Below are a list of my credentials:
 - *Mobile App Development Technologies* - Dart, Flutter
 - *State Management Technologies* - Provider, Riverpod, BloC 
 - *Databases* - Hive, Sqflite,  Firebase, MongoDB
-- Generative AI, ChatGPT
+- *AI Technologies* - Generative AI, ChatGPT
 - *Version Control System* - Git, Github
 - *Operating Systems* - Windows 11, Linux (Ubuntu)
 
