@@ -12,11 +12,11 @@ Below are a list of my credentials:
 
 ## Practical skills
 - *Mobile App Development Technologies* - Dart, Flutter, Kotlin, Android
-- *State management technologies* - Provider, Riverpod, BloC 
+- *State Management Technologies* - Provider, Riverpod, BloC 
 - *Databases* - Hive, Sqflite,  Firebase, MongoDB
 - Generative AI, ChatGPT
 - *Version control system* - Git, Github
-- *Operating systems* - Windows 11, Linux (Ubuntu)
+- *Operating Systems* - Windows 11, Linux (Ubuntu)
 
 ## Professional contribution
 - [Stack Overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
