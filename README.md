@@ -15,7 +15,7 @@ Below are a list of my credentials:
 - *State Management Technologies* - Provider, Riverpod, BloC 
 - *Databases* - Hive, Sqflite,  Firebase, MongoDB
 - Generative AI, ChatGPT
-- *Version control system* - Git, Github
+- *Version Control System* - Git, Github
 - *Operating Systems* - Windows 11, Linux (Ubuntu)
 
 ## Professional contribution
