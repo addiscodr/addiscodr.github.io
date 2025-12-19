@@ -18,7 +18,7 @@ Below are a list of my credentials:
 - *Version Control System* - Git, Github
 - *Operating Systems* - Windows 11, Linux (Ubuntu)
 
-## Professional contribution
+## Tech contribution
 - [Stack Overflow](https://stackoverflow.com/users/15255181/esayas-fisseha-gebresilasie)
 
 ## Educational background
