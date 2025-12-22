@@ -11,7 +11,7 @@ Below are a list of my credentials:
 - [Programming Fundamentals](https://drive.google.com/file/d/1vHmdOh2nMIMzkh4RmBYhPQY13tFYigyv/view?usp=sharing)
 
 ## Practical skills
-- *Mobile App Development Technologies* - Dart, Flutter, Node.js
+- *Languages and Frameworks* - Dart, Flutter, TypeScript, Node.js
 - *State Management Technologies* - Provider, Riverpod, BloC 
 - *Databases* - Hive, Sqflite,  Firebase, MongoDB
 - *AI Technologies* - Generative AI, ChatGPT
