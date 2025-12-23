@@ -1,6 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Esayas F. Gebresilasie
 description: A multi-platform app developer using Flutter
+baseurl: addiscodr
 
 
 
