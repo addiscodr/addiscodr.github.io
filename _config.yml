@@ -1,7 +1,5 @@
-theme: jekyll-theme-hyde
+remote-theme: poole/hyde
 title: Esayas F. Gebresilasie
-author:
-   picture: /assets/images/edited_photo1.png
 description: A multi-platform app developer using Flutter
 
 
