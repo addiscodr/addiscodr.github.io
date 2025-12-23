@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Esayas F. Gebresilasie
 author:
-   picture: ./images/edited_photo1.png
+   picture: /assets/images/edited_photo1.png
 description: A multi-platform app developer using the Flutter framework
 
 
