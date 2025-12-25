@@ -10,7 +10,7 @@ minima:
     twitter: jekyllrb
     github: jekyll
 baseurl: "/my-project-repo" # e.g. for a project site
-url: "https://username.github.io" # e.g. for a user site
+url: "https://addiscodr.github.io" # e.g. for a user site
 
 
 
