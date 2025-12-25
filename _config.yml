@@ -4,7 +4,7 @@ author:
   email: addiscodr@gmail.com
 description: A multi-platform app developer using Flutter
 minima:
-  skin: dark
+  skin: auto
 minima:
   social_links:
     twitter: jekyllrb
