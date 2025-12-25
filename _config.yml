@@ -1,6 +1,16 @@
 theme: minima
-title: Esayas F. Gebresilasie
+author:
+  name: Esayas F. Gebresilasie
+  email: addiscodr@gmail.com
 description: A multi-platform app developer using Flutter
+minima:
+  skin: dark
+minima:
+  social_links:
+    twitter: jekyllrb
+    github: jekyll
+baseurl: "/my-project-repo" # e.g. for a project site
+url: "https://username.github.io" # e.g. for a user site
 
 
 
