@@ -1,22 +1,7 @@
-yaml
-theme: minima
-yaml
-author:
-  name: Esayas F. Gebresilasie
-  email: addiscodr@gmail.com
-yaml
+title: Esayas F. Gebresilasie
+logo: /assets/images/edited_photo1.png
 description: A multi-platform app developer using Flutter
-yaml
-minima:
-  skin: auto
-yaml
-minima:
-  social_links:
-    twitter: jekyllrb
-    github: jekyll
-yaml
-baseurl: "/https://github.com/addiscodr/flutter_text_to_speech_v1" # e.g. for a project site
-url: "https://addiscodr.github.io" # e.g. for a user site
+
 
 
 
