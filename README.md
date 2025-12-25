@@ -1,4 +1,4 @@
-## [Visit my portfolio on Github](https://github.com/addiscodr?tab=repositories)
+#### [Visit my portfolio on Github](https://github.com/addiscodr?tab=repositories)
 I currently serve as the Head of Planning and Business Development at a company specializing in the importation and supply of petroleum products. In parallel, through online training and self-learning, I have developed skills in relation to a multi-platform app development, successfully showcasing several apps specifically tailored for the Android and iOS ecosystems. 
 
 Below are a list of my credentials:
