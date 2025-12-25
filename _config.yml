@@ -9,7 +9,7 @@ minima:
   social_links:
     twitter: jekyllrb
     github: jekyll
-baseurl: "/my-project-repo" # e.g. for a project site
+# baseurl: "/my-project-repo" # e.g. for a project site
 url: "https://addiscodr.github.io" # e.g. for a user site
 
 
