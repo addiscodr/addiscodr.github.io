@@ -1,4 +1,4 @@
-
+layout: default
 ## 👋 Hi, I'm Esayas
 I'm a **Mobile Developer**
 
