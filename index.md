@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
-## 👋🏻 Hi, I'm Esayas
+## 👋 Hi, I'm Esayas
 I'm a **Mobile Developer**
-### What I Do
+### 💼 What I Do
 - Flutter Development
 - REST APIs & Clean Architecture
 - Firebase & Local Storage (Hive, Sqflite)
-### Projects
+### 🚀 Projects
 - **Todo App** MVVM
 - **Flutter Stripe Payment**
-### Contact Me
+### 📧 Contact Me
 - GitHub
 [github.com/addiscodr](https://github.com/addiscodr)
 - LinkedIn
