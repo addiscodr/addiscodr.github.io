@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Esayas
-I'm a **Mobile Developer**
+I'm a **Mobile Developer** focused on building clean, scalable, and user-friendly applications specifically tailored for Android and iOS ecosystems.
 
 ### 💼 What I Do
 - Flutter Development
