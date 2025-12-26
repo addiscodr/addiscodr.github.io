@@ -15,8 +15,6 @@ I'm a **Mobile Developer** focused on building clean, scalable, and user-friendl
 - [Programming Fundamentals](https://drive.google.com/file/d/1vHmdOh2nMIMzkh4RmBYhPQY13tFYigyv/view?usp=sharing)
   
 ###  📧 Contact Me
-- GitHub
-[github.com/addiscodr](https://github.com/addiscodr)
-- LinkedIn
-[linkedin.com/in/addiscodr](https://linkedin.com/in/addiscodr)
+[Github](https://github.com/addiscodr)
+[LinkedIn](https://linkedin.com/in/addiscodr)
 
