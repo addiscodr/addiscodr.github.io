@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-## Hi, I'm Esayas
+## <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/ab0adc63-54a0-4503-ad4c-d7076bf7bdc1" />
+Hi, I'm Esayas
 I'm a **Mobile Developer**
 ### What I Do
 - Flutter Development
