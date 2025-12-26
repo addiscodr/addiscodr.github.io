@@ -5,15 +5,34 @@ body {
 }
 .site-title {
   font-weight: bold;
+  font-size: 1.6rem;
+  text-align: center;
+  margin-top: 10px;
 }
 .site-logo img {
-  max-width: 120px; 
+  max-width: 110px; 
   height: auto;
+  border: 2px solid 
+  border-radius: 50%;
+  display: block;
+  margin: o auto;
   
 }
-.site-logo img { 
-  border-radius: 50%; 
+
+@media (max-width: 600){
+  .site-logo img {
+    max-width: 90px;
+  }
+  .site-title {
+    font-size: 1.2rem;
+  }
 }
+
+.site-description {
+  font-size: 0.95rem;
+  text-align: center;
+}
+
 .site-logo {
   margin-bottom: 20px;  
 }
