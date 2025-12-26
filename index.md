@@ -16,5 +16,5 @@ I'm a **Mobile Developer** focused on building clean, scalable, and user-friendl
   
 ###  📧 Contact Me
 ##### [LinkedIn](https://linkedin.com/in/addiscodr)
-#### [https://wa.me/251911108121]
+#### [WhatsApp](https://wa.me/251911108121)
 
