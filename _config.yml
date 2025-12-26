@@ -7,6 +7,8 @@ github_username: addiscodr
 linkedin_username: addiscodr
 sass:
   style: compressed
+url: "https://addiscodr.github.io"
+baseurl: ""
 
 
 
