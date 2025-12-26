@@ -4,7 +4,7 @@ I'm a **Mobile Developer** focused on building clean, scalable, and user-friendl
 ###  💼 What I Do
 - Flutter Development
 - REST APIs & Clean Architecture
-- Firebase & Local Storage (Hive, Sqflite)
+- Firebase, MongoDB, & Local Storage (Hive, Sqflite)
   
 ###  🚀 Projects
 - **Todo App** MVVM
