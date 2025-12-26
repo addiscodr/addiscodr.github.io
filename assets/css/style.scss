@@ -1,1 +1,8 @@
-
+@import "{{site.theme}}";
+body {
+  font-family: system-ui,
+    -apple-system, BlinkMacSystemFont;  
+}
+.site-title {
+  font-weight: bold;
+}
