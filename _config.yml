@@ -5,6 +5,8 @@ theme: jekyll-theme-minimal
 show_downloads: false
 github_username: addiscodr
 linkedin_username: 
+sass:
+  style: compressed
 
 
 
