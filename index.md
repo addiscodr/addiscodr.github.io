@@ -19,9 +19,9 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 ### 📺 Technologies
 
-| Language | Frameworks | Databases | State Management Tools | Other         |    
-| :---      | :--------: | :-------: |  :-----------:   |         ----: |
-| Dart      | Flutter    | Firebase  | Provider         | Linux(Ubuntu) |
+| Language | Frameworks | Databases | State Management Tools | Other |    
+| :---  | :--------: | :-------: |  :-----------:  | ----: |
+| Dart | Flutter | Firebase  | Provider | Linux(Ubuntu) |
 |         | NodeJS     | MongoDB   | BloC             | Github        |
 |           |           | Sqflite   | Riverpod         | Powershell |
 |           |            | Hive      |                  |               |
