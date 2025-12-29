@@ -14,7 +14,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - **Flutter Stripe Payment**
 
 ###  🏆 Certifications
-- <font color="black">[Android Developer Fundamentals]</font>(https://drive.google.com/file/d/1UjeESqg3jobyHNj9kSU57oYM49UW_hRT/view?usp=sharing)
+- <font color="black">[Android Developer Fundamentals](https://drive.google.com/file/d/1UjeESqg3jobyHNj9kSU57oYM49UW_hRT/view?usp=sharing)</font>
 - [<font color="black">Programming Fundamentals</font>](https://drive.google.com/file/d/1vHmdOh2nMIMzkh4RmBYhPQY13tFYigyv/view?usp=sharing)
 
 ### 📺 Technologies
