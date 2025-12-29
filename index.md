@@ -17,11 +17,12 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 ### Technologies
 | Languages | Frameworks | Databases | Other         | 
 | :---      | :---:      | :----:    |         ----: | 
-| Dart      | Flutter    | Firebase  |      MongoDB  | 
-| Kotlin    | NodeJS     | MongoDB   |      Firebase |
-|           |            | Sqflite   | Linux(Ubuntu) |
-|           |            | Hive      |        Github | 
+| Dart      | Flutter    | Firebase  | Linux(Ubuntu) | 
+| Kotlin    | NodeJS     | MongoDB   | Github        |
+|           |            | Sqflite   |               |
+|           |            | Hive      |               | 
 |           |            | Isar      |               |
+
 ###  📧 Contact Me
 #####  
 
