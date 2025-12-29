@@ -6,7 +6,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - App Development targeting iOS
 - App Development targeting Networking Environment 
 - App Development using REST APIs  
-- Full Stack App Development both for Android and iOS ecosystems
+- Full Stack App Development both for the Android and iOS ecosystems
 - Clean Architecture
   
 ###  🚀 Projects
