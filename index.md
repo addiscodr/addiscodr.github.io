@@ -2,9 +2,11 @@
 I'm a **Mobile App Developer** focused on building clean, scalable, and user-friendly applications specifically tailored for Android and iOS ecosystems.
 
 ###  💼 What I Do
-- Flutter Development
-- REST APIs & Clean Architecture
-- Firebase, MongoDB, NodeJS & Local Storage (Hive, Sqflite, Isar)
+- Android App Development
+- iOS App Development
+- Mobile App Development using REST APIs  
+- Full Stack Mobile App Development for Android and iOS ecosystems
+- Clean Architecture
   
 ###  🚀 Projects
 - **Todo App** MVVM
