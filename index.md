@@ -33,7 +33,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - [The Journey to the Heart of the World](https://www.amazon.com/Journey-Heart-World-Esayas-Gebresilasie-ebook/dp/B0C1NHPQR8/ref=sr_1_2?crid=1DZ7GG5UFRGFO&dib=eyJ2IjoiMSJ9.6ZwamUB-LSd_i2naCFBTFMkO_d0_U2l1SSU0Ir4IZG87xu5FvFO4lg8RkroJ_RoC9z72RKwTfQ0M_4-bTw7V7g.2HaVGjzVVs9R7bPA8ELPQkSn4ChP3EmYtqV9_IK75u0&dib_tag=se&keywords=Esayas+F.+Gebresilasie&qid=1767011452&sprefix=esayas+f.+gebresilasie%2Caps%2C443&sr=8-2)
 
 ###  📧 Contact Me
-##### [WhatsApp](wa.me/+251911108121) | [LinkedIn]
+##### [WhatsApp](wa.me/251911108121) | [LinkedIn]
 
 
 
