@@ -15,7 +15,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - [Programming Fundamentals](https://drive.google.com/file/d/1vHmdOh2nMIMzkh4RmBYhPQY13tFYigyv/view?usp=sharing)
   
 ###  📧 Contact Me
-##### [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/addiscodr) | [wa.me](https://wa.me/251911108121)
+##### [LinkedIn](https://www.linkedin.com/addiscodr)](https://www.linkedin.com/addiscodr) | [wa.me](https://wa.me/251911108121)
 
 
 
