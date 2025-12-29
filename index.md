@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Esayas
-I'm a **Mobile App Developer** focused on building clean, scalable, and user-friendly applications specifically tailored for Android and iOS ecosystems.
+I'm a **Mobile App Developer** focused on building clean, scalable, and user-friendly applications.
 
 ###  💼 What I Do
 - Android App Development
