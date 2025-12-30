@@ -3,8 +3,11 @@ logo: /assets/img/my_pic.png
 description: Mobile App Developer 
 theme: jekyll-theme-minimal
 show_downloads: false
-github_username: addiscodr
-linkedin_username: addiscodr
+social_links:
+   github:
+      https://github.com/addiscodr
+   linkedin:
+      https://linkedin.com/in/addiscodr
 sass:
   style: compressed
 url: "https://addiscodr.github.io"
