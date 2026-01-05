@@ -21,7 +21,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - [StackOverflow](https://stackoverflow.com/addiscodr)
 
 
-### 📺 Technologies
+### 📺 Technological Skills
 
 | Languages | Frameworks | Databases | State Management Tools | Other |    
 | :---  | :--------: | :-------: |  :-----------:  | ----: |
