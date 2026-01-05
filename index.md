@@ -9,7 +9,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - Full Stack App Development both for Android and iOS platforms
 - Clean Architecture
   
-###  🚀 Projects I Accomplished
+###  🚀 Project Highlights
 - **Todo App** MVVM
 - **Flutter Stripe Payment**
 
