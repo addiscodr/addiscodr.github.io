@@ -25,8 +25,8 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 | Languages | Frameworks | Databases | State Management Tools | Dev Platforms & Other |    
 | :---  | :--------: | :-------: |  :-----------:  | ----: |
-| Dart | Flutter | Firebase  | Provider | Windows 11 |
-| Kotlin | NodeJS     | MongoDB   | BloC             |  MacOS       |
+| Dart | Flutter | Firebase  | Provider | MacOS |
+| Kotlin | NodeJS     | MongoDB   | BloC             | Windows 11   |
 |           | Android | Sqflite   | Riverpod         |  Linux(Ubuntu)   |  
 |           |            | Hive      |                  | PowerShell           |
 |           |            | Isar      |                  | Github              |
