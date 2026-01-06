@@ -24,13 +24,13 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 | Languages | Frameworks | Databases | State Management Tools | Dev Platforms & Other |    
 | :---  | :--------: | :-------: |  :-----------:  | ----: |
-| Dart | Flutter | Firebase  | Provider | MacOS |
-| Kotlin | NodeJS     | MongoDB   | BloC             | Windows 11   |
-|           | Android | Sqflite   | Riverpod         |  Linux(Ubuntu)   |  
-|           |            | Hive      |                  | PowerShell           |
-|           |            | Isar      |                  | Github              |
-|           |            |           |                  | ChatGPT          |
-|           |            |           |                  | Gemini AI              |
+| Dart | Flutter | Firebase  | Provider |  Windows 11 |
+| Kotlin | NodeJS     | MongoDB   | BloC             |  Linux(Ubuntu)   |
+|           | Android | Sqflite   | Riverpod         |  PowerShell   |  
+|           |            | Hive      |                  |   Github        |
+|           |            | Isar      |                  |      ChatGPT           |
+|           |            |           |                  |  Gemini AI         |
+                                                               
 
 ### 📣 Publications
 - [<font color="black">A Life of Heroism</font>](https://www.amazon.com/Life-Heroism-Alien-Beyond-others-ebook/dp/B0C3YYGPBJ/ref=sr_1_5?crid=1DZ7GG5UFRGFO&dib=eyJ2IjoiMSJ9.6ZwamUB-LSd_i2naCFBTFMkO_d0_U2l1SSU0Ir4IZG87xu5FvFO4lg8RkroJ_RoC9z72RKwTfQ0M_4-bTw7V7g.2HaVGjzVVs9R7bPA8ELPQkSn4ChP3EmYtqV9_IK75u0&dib_tag=se&keywords=Esayas+F.+Gebresilasie&qid=1767011452&sprefix=esayas+f.+gebresilasie%2Caps%2C443&sr=8-5)
