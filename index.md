@@ -22,14 +22,14 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 ### 📺 Technological Skills
 
-| Languages | Frameworks | Databases | State Management Tools | Dev Platforms & Other |    
-| :---  | :--------: | :-------: |  :-----------:  | ----: |
-| Dart | Flutter | Firebase  | Provider |  Windows 11 |
-| Kotlin | NodeJS     | MongoDB   | BloC             |  Linux(Ubuntu)   |
-|           | Android | Sqflite   | Riverpod         |  PowerShell   |  
-|           |            | Hive      |                  |   Github        |
-|           |            | Isar      |                  |      ChatGPT           |
-|           |            |           |                  |  Gemini AI         |
+| Languages and Frameworks | Databases       | State Management Tools | Dev Platforms & Other |    
+| :---    | :-------:      |  :-----------:  | ----: |
+| Dart    |  Firebase      | Provider        |  Windows 11 |
+| Flutter | MongoDB        | BloC             |  Linux(Ubuntu)   |
+| Kotlin  | Sqflite        | Riverpod         |  PowerShell   |  
+| Android | Hive         |                    |   Github        |
+| NodeJS  | Isar         |                    |      ChatGPT     |
+|         |              |                    |   Gemini AI         |
                                                                
 
 ### 📣 Publications
