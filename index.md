@@ -28,8 +28,8 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 | Flutter | MongoDB        | BloC             |  Linux(Ubuntu)   |
 | TypeScript  | Sqflite    | Riverpod         |  PowerShell   |  
 | NodeJS  | Hive         |                    |   Github        |
-|         | Isar         |                    |      ChatGPT     |
-|         |              |                    |   Gemini AI         |
+| Kotlin       | Isar         |                    |      ChatGPT     |
+|  Android       |              |                    |   Gemini AI         |
                                                                
 
 ### 📣 Publications
