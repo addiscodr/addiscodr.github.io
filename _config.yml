@@ -3,7 +3,7 @@ logo: /assets/img/my_pic.png
 description: Mobile App Developer 
 theme: jekyll-theme-minimal
 show_downloads: false
-social_links:
+contact_links:
    github:
       https://github.com/addiscodr
    linkedin:
