@@ -29,7 +29,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 | NodeJS  | Sqflite    | Riverpod         |  PowerShell   |  
 |   | Hive         |                    |   Github        |
 |        | Isar         |                    |      ChatGPT     |
-|         |  Dio            |                    |   Gemini AI         |
+|         |              |                    |   Gemini AI         |
                                                                
 
 ### 📣 Publications
