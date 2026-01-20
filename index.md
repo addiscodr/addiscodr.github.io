@@ -27,7 +27,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 | Dart    |  Firebase & Firestore     | Provider        |  Windows 11 |
 | Flutter |   MongoDB     | BloC            |  Linux(Ubuntu)   |
 | NodeJS  |    Isar    | Riverpod        |   Gitbash  |  
-|         |  Sqflite       |                 |    PowerShell     |
+|         |  Sqflite       |      GetX           |    PowerShell     |
 |         |     Hive       |                 |   Git & Github      |
 |         |            |                 |       ChatGPT     |
 |         |                |                 |  Gemini AI    |
