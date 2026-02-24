@@ -29,8 +29,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 | NodeJS  |    Isar    | Riverpod        | ChatGPT   |  
 |         |  Sqflite       |      GetX           |    Gemini AI     |
 |         |     Hive       |                 |   Git & GitHub      |
-|         |            |                 |       |
-|         |                |                 |      |
+
 
                                                                
 
