@@ -31,7 +31,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 |         |     Hive       |                 |   Git & GitHub      |
 |         |            |                 |       |
 |         |                |                 |      |
-|         |           |              |       |
+
                                                                
 
 ### 📣 Publications
