@@ -20,25 +20,6 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - [<font color="black">Android Developer Fundamentals</font>](https://drive.google.com/file/d/1UjeESqg3jobyHNj9kSU57oYM49UW_hRT/view?usp=sharing)
 - [<font color="black">Programming Fundamentals</font>](https://drive.google.com/file/d/1vHmdOh2nMIMzkh4RmBYhPQY13tFYigyv/view?usp=sharing)
 
-  <table>
-  <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
-  </tr>
-  <tr style="background-color: #ffcccc;">
-    <td>Colored Row 1</td>
-    <td>Data 1</td>
-  </tr>
-  <tr>
-    <td>Row 2</td>
-    <td>Data 2</td>
-  </tr>
-  <tr style="background-color: #ffcccc;">
-    <td>Colored Row 3</td>
-    <td>Data 3</td>
-  </tr>
-</table>
-
 
 ### 📺 Technological Skills
 
