@@ -10,7 +10,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - Clean Architecture
   
 ###  🚀 Project Highlights
-- [**Todo App**](https://github.com/addiscodr/todo_app) 
+- [**Todo App** (Flutter, Hive)](https://github.com/addiscodr/todo_app) 
 - **Flutter Stripe Payment**
 
 ### 📲 Tech Contributions
