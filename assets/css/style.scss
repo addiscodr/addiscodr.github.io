@@ -38,18 +38,4 @@ body {
   margin-bottom: 20px;  
 }
 
-<style>
-  /* Style odd rows */
-  tr:nth-child(odd) {
-    background-color: #f2f2f2; /* Light gray */
-  }
-  /* Style even rows */
-  tr:nth-child(even) {
-    background-color: #ffffff; /* White */
-  }
-  /* Optional: style the header row differently */
-  th {
-    background-color: #4CAF50; /* Green header */
-    color: white;
-  }
-</style>
+
