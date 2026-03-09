@@ -20,6 +20,22 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - [<font color="black">Android Developer Fundamentals</font>](https://drive.google.com/file/d/1UjeESqg3jobyHNj9kSU57oYM49UW_hRT/view?usp=sharing)
 - [<font color="black">Programming Fundamentals</font>](https://drive.google.com/file/d/1vHmdOh2nMIMzkh4RmBYhPQY13tFYigyv/view?usp=sharing)
 
+  <style>
+  /* Style odd rows */
+  tr:nth-child(odd) {
+    background-color: #f2f2f2; /* Light gray */
+  }
+  /* Style even rows */
+  tr:nth-child(even) {
+    background-color: #ffffff; /* White */
+  }
+  /* Optional: style the header row differently */
+  th {
+    background-color: #4CAF50; /* Green header */
+    color: white;
+  }
+</style>
+
 ### 📺 Technological Skills
 
 | Languages and Frameworks | Databases       | State Management Tools | Dev Tools  |    
