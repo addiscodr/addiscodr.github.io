@@ -10,7 +10,8 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - Clean Architecture
   
 ###  🚀 Project Highlights
-- [**Task Manager** (Flutter, Hive)](https://github.com/addiscodr/todo_app) 
+- [**Task Manager** (Flutter, Hive)](https://github.com/addiscodr/todo_app)
+- [**Weather Information** (Flutter, Riverpod, Dio, Geolocator)](https://github.com/addiscodr/addis_weather_v2)
 - **Flutter Stripe Payment**
 
 ### 📲 Tech Contributions
