@@ -38,4 +38,18 @@ body {
   margin-bottom: 20px;  
 }
 
-
+<style>
+  /* Apply to even rows */
+  tr:nth-child(even) {
+    background-color: #f2f2f2; /* Light grey background */
+  }
+  /* Apply to odd rows */
+  tr:nth-child(odd) {
+    background-color: #ffffff; /* White background */
+  }
+  /* Style the header row */
+  th {
+    background-color: #0969DA; /* GitHub primary blue */
+    color: white;
+  }
+</style>
