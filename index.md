@@ -22,7 +22,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 
 ### 📺 Technological Skills
-
+<style>
 | Languages and Frameworks | Databases       | State Management Tools | Dev Tools  |    
 | :---    | :-------:      |  :-----------:  | ----: |
 | Dart    |  Firebase Cloud Firestore     |  Provider       | GitBash   |
@@ -31,7 +31,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 |         |  Sqflite       |    GetX             |    Gemini AI     |
 |         |     Hive       |                 |         |
 
-
+</style>
                                                                
 
 ### 📣 Publications
