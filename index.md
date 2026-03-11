@@ -7,7 +7,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - App Development in networking environment 
 - App Development using REST APIs  
 - Full Stack App Development both for Android and iOS platforms
-- Clean Architecture
+- MVVM, Clean Architecture
   
 ###  🚀 Project Highlights
 - [<font color="black">Task Manager - Flutter, Hive</font>](https://github.com/addiscodr/todo_app)
