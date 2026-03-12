@@ -25,7 +25,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 ### 📺 Technological Skills
 
-| Languages and Frameworks | Databases       | State Management Tools | Dev Tools  |    
+| Languages and Frameworks | Databases       | State Management Tools | Dev Environment  |    
 | :---    | :-------:      |  :-----------:  | ----: |
 | Dart    |  Firebase, Firestore     |  Provider       | GitBash   |
 | Flutter |   MongoDB     |     Riverpod      |  Git & GitHub  |
