@@ -2,10 +2,11 @@
 
 /* Make profile/logo circular */
 .site-avatar img {
-  border-radius: 50%; /* Makes the image circular */
-  width: 120px;      /* Adjust size as needed */
-  height: 120px;     /* Adjust size as needed to maintain a circle */
-  object-fit: cover; /* Ensures the image covers the area without distortion */
+  border-radius: 50%;
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border: 4px solid #0969DA;
 }
 
 /* Font */
