@@ -1,4 +1,13 @@
 @import "{{site.theme}}";
+
+/* Add custom CSS to make the logo circular */
+.site-header img {
+  border-radius: 50%; /* Makes the image circular */
+  width: 100px;      /* Adjust size as needed */
+  height: 100px;     /* Adjust size as needed to maintain a circle */
+  object-fit: cover; /* Ensures the image covers the area without distortion */
+}
+
 body {
   font-family: system-ui,
     -apple-system, BlinkMacSystemFont;  
