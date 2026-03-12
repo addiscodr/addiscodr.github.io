@@ -10,9 +10,9 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - MVVM, Clean Architecture
   
 ###  🚀 Project Highlights
-- [<font color="black">Task Manager - Flutter, Hive</font>](https://github.com/addiscodr/todo_app)
-- [<font color="black">Weather Information - Flutter, Riverpod, Dio, Geolocator</font>](https://github.com/addiscodr/addis_weather_v2)
-- [<font color="black">Movies Recommendation - Flutter, TMDB API</font>](https://github.com/addiscodr/addis_movies/tree/main)
+- [<font color="black">Task Manager - Flutter, Hive</font>](https://github.com/addiscodr/todo_app){:target="_blank"}
+- [<font color="black">Weather Information - Flutter, Riverpod, Dio, Geolocator</font>](https://github.com/addiscodr/addis_weather_v2){:target="_blank"}
+- [<font color="black">Movies Recommendation - Flutter, TMDB API</font>](https://github.com/addiscodr/addis_movies/tree/main){:target="_blank"}
 - **Flutter Stripe Payment**
 
 ### 📲 Tech Contributions
