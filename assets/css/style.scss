@@ -1,35 +1,37 @@
 @import "{{site.theme}}";
 
-/* Add custom CSS to make the logo circular */
-.site-header img {
+/* Make profile/logo circular */
+.site-avatar img {
   border-radius: 50%; /* Makes the image circular */
-  width: 100px;      /* Adjust size as needed */
-  height: 100px;     /* Adjust size as needed to maintain a circle */
+  width: 120px;      /* Adjust size as needed */
+  height: 120px;     /* Adjust size as needed to maintain a circle */
   object-fit: cover; /* Ensures the image covers the area without distortion */
 }
 
+/* Font */
 body {
   font-family: system-ui,
     -apple-system, BlinkMacSystemFont;  
 }
 
+/* Description */
 .site-description {
   font-size: 0.95rem;
   text-align: center;
 }
 
-<style>
-  /* Apply to even rows */
+
+  /* Table row colors */
   tr:nth-child(even) {
     background-color: #f2f2f2; /* Light grey background */
   }
-  /* Apply to odd rows */
+
   tr:nth-child(odd) {
     background-color: #ffffff; /* White background */
   }
-  /* Style the header row */
+  /* Table header */
   th {
     background-color: #0969DA; /* GitHub primary blue */
     color: white;
   }
-</style>
+
