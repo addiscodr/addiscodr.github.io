@@ -10,10 +10,10 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - MVVM, Clean Architecture
   
 ###  🚀 Project Highlights
-- [<font color="black">*Task Manager* - Flutter, Hive</font>](https://github.com/addiscodr/todo_app){:target="_blank"}
-- [<font color="black">*Weather Information* - Flutter, Riverpod, Dio, Geolocator</font>](https://github.com/addiscodr/addis_weather_v2){:target="_blank"}
-- [<font color="black">*Movies Recommendation* - Flutter, TMDB API</font>](https://github.com/addiscodr/addis_movies/tree/main){:target="_blank"}
-- [<font color="black">*Online Shopping* - Flutter, Stripe, http, Firebase Auth, Firebase Storage, Cloud Firestore</font>](https://github.com/addiscodr/addis_ecommerce){:target="_blank"}
+- [<font color="black">_*Task Manager*_ - Flutter, Hive</font>](https://github.com/addiscodr/todo_app){:target="_blank"}
+- [<font color="black">_*Weather Information*_ - Flutter, Riverpod, Dio, Geolocator</font>](https://github.com/addiscodr/addis_weather_v2){:target="_blank"}
+- [<font color="black">_*Movies Recommendation*_ - Flutter, TMDB API</font>](https://github.com/addiscodr/addis_movies/tree/main){:target="_blank"}
+- [<font color="black">_*Online Shopping*_ - Flutter, Stripe, http, Firebase Auth, Firebase Storage, Cloud Firestore</font>](https://github.com/addiscodr/addis_ecommerce){:target="_blank"}
 
 
 ### 📲 Tech Contributions
