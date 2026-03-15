@@ -13,7 +13,8 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 - [<font color="black">Task Manager - Flutter, Hive</font>](https://github.com/addiscodr/todo_app){:target="_blank"}
 - [<font color="black">Weather Information - Flutter, Riverpod, Dio, Geolocator</font>](https://github.com/addiscodr/addis_weather_v2){:target="_blank"}
 - [<font color="black">Movies Recommendation - Flutter, TMDB API</font>](https://github.com/addiscodr/addis_movies/tree/main){:target="_blank"}
-- **Flutter Stripe Payment**
+- [<font color="black">Online Shopping - Flutter, Stripe Payment Gateway, Firebase, Firestore</font>](https://github.com/addiscodr/addis_ecommerce){:target="_blank"}
+
 
 ### 📲 Tech Contributions
 - [<font color="black">StackOverflow</font>](https://stackoverflow.com/addiscodr){:target="_blank"}
