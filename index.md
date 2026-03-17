@@ -43,17 +43,16 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 3. [<font color="black"><em>The Journey to the Heart of the World</em></font>](https://www.amazon.com/Journey-Heart-World-Esayas-Gebresilasie-ebook/dp/B0C1NHPQR8/ref=sr_1_2?crid=1DZ7GG5UFRGFO&dib=eyJ2IjoiMSJ9.6ZwamUB-LSd_i2naCFBTFMkO_d0_U2l1SSU0Ir4IZG87xu5FvFO4lg8RkroJ_RoC9z72RKwTfQ0M_4-bTw7V7g.2HaVGjzVVs9R7bPA8ELPQkSn4ChP3EmYtqV9_IK75u0&dib_tag=se&keywords=Esayas+F.+Gebresilasie&qid=1767011452&sprefix=esayas+f.+gebresilasie%2Caps%2C443&sr=8-2){:target="_blank"}
 
 ### 🌐 Connect with me
-<html>
-  <body>
-<a href="https://linkedin.com/in/addiscodr" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24" alt="LinkedIn" hspace="15">
-</a>  
 
-<a href="https://wa.me/251911108121" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="24" alt="WhatsApp">
-</a>
-</body>
-</html>
+<p align="left">
+  <a href="https://linkedin.com/in/yourname">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="30" />
+  </a>
+  <a href="https://wa.me/2519XXXXXXX">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/whatsapp.svg" height="30" />
+  </a>
+</p>
+
 
 
 
