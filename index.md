@@ -44,6 +44,9 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 ### 🌐 Connect with me
 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=0A66C2" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg?color=25D366" />
+
 <p align="left">
   <a href="https://linkedin.com/in/addiscodr" style="margin-right: 20px;">
     <span style="background-color:#0A66C2; padding:8px; border-radius:50%;">
