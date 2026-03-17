@@ -46,7 +46,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 <html>
   <body>
 <a href="https://linkedin.com/in/addiscodr" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24" alt="LinkedIn" hspace="10">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24" alt="LinkedIn" hspace="15">
 </a>  
 
 <a href="https://wa.me/251911108121" target="_blank">
