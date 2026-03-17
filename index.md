@@ -45,6 +45,20 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 ### 🌐 Connect with me
 
 <p align="left">
+  <a href="https://linkedin.com/in/addiscodr" style="margin-right: 20px;">
+    <svg height="30" viewBox="0 0 24 24" fill="#0A66C2">
+      <path d="M20.447...Z"/> <!-- truncated path -->
+    </svg>
+  </a>
+
+  <a href="https://wa.me/251911108121">
+    <svg height="30" viewBox="0 0 24 24" fill="#25D366">
+      <path d="M20.52...Z"/> <!-- truncated path -->
+    </svg>
+  </a>
+</p>
+
+<p align="left">
   <a href="https://linkedin.com/in/addiscodr">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="30" style="margin-right: 20px;" />
   </a>
