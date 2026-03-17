@@ -46,15 +46,15 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 <p align="left">
   <a href="https://linkedin.com/in/addiscodr" style="margin-right: 20px;">
-    <svg height="30" viewBox="0 0 24 24" fill="#0A66C2">
-      <path d="M20.447...Z"/> <!-- truncated path -->
-    </svg>
+    <span style="background-color:#0A66C2; padding:8px; border-radius:50%;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="20" style="filter: invert(1);" />
+    </span>
   </a>
 
   <a href="https://wa.me/251911108121">
-    <svg height="30" viewBox="0 0 24 24" fill="#25D366">
-      <path d="M20.52...Z"/> <!-- truncated path -->
-    </svg>
+    <span style="background-color:#25D366; padding:8px; border-radius:50%;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/whatsapp.svg" height="20" style="filter: invert(1);" />
+    </span>
   </a>
 </p>
 
