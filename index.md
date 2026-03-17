@@ -45,10 +45,10 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourname">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="30" style="margin-right: 15px;" />
+  <a href="https://linkedin.com/in/addiscodr">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="30" style="margin-right: 20px;" />
   </a>
-  <a href="https://wa.me/2519XXXXXXX">
+  <a href="https://wa.me/251911108121">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/whatsapp.svg" height="30" />
   </a>
 </p>
