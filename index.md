@@ -46,7 +46,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 <p align="left">
   <a href="https://linkedin.com/in/yourname">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="30" style="margin-right: 15px;" />
   </a>
   <a href="https://wa.me/2519XXXXXXX">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/whatsapp.svg" height="30" />
