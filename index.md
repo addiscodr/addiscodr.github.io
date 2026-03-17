@@ -44,6 +44,11 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 ###  📧 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/addiscodr/) |
-[WhatsApp](https://wa.me/251911108121)
+## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/addiscodr)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/251911108121)
+
+
 
