@@ -44,9 +44,6 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 ###  📧 Contact Me
 
-<div class="social-links">
-  <a href="{{ site.linkedin }}" target="_blank">LinkedIn</a>
-  <br>
-  <a href="{{ site.whatsapp }}" target="_blank">WhatsApp</a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/addiscodr/) |
+[WhatsApp](https://wa.me/251911108121)
 
