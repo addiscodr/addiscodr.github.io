@@ -50,8 +50,8 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      width: 44px;
-      height: 44px;
+      width: 36px;
+      height: 36px;
       background-color: #0A66C2;
       border-radius: 8px;
     ">
