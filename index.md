@@ -50,14 +50,18 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      width: 42px;
-      height: 42px;
+      width: 44px;
+      height: 44px;
       background-color: #0A66C2;
       border-radius: 8px;
     ">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg"
-           height="24"
-           style="filter: brightness(0) invert(1);" />
+           height="26"
+           style="
+             display: block;
+             filter: brightness(0) invert(1);
+             background: transparent;
+           " />
     </span>
   </a>
 </p>
