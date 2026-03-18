@@ -54,7 +54,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
       width: 36px;
       height: 36px;
       background-color: #0A66C2;
-      border-radius: 50%;
+     // border-radius: 50%;
     ">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg"
            height="18"
