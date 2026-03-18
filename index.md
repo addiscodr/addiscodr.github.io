@@ -50,6 +50,28 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
       display: inline-flex;
       align-items: center;
       justify-content: center;
+      width: 40px;
+      height: 40px;
+      background-color: #0A66C2;
+      border-radius: 8px;
+    ">
+      <svg xmlns="http://www.w3.org/2000/svg"
+           viewBox="0 0 24 24"
+           width="26"
+           height="26"
+           fill="white">
+        <path d="M20.447 20.452H16.89V14.87c0-1.332-.025-3.045-1.854-3.045-1.854 0-2.137 1.445-2.137 2.94v5.687H9.341V9h3.414v1.561h.049c.476-.9 1.637-1.854 3.37-1.854 3.602 0 4.268 2.37 4.268 5.455v6.29zM5.337 7.433a2.062 2.062 0 1 1 0-4.124 2.062 2.062 0 0 1 0 4.124zM6.975 20.452H3.698V9h3.277v11.452z"/>
+      </svg>
+    </span>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://linkedin.com/in/addiscodr" style="margin-right: 20px; text-decoration: none;">
+    <span style="
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
       width: 44px;
       height: 44px;
       background-color: #0A66C2;
