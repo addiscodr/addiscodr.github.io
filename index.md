@@ -45,7 +45,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 ### 📱 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/addiscodr" style="margin-right: 20px; text-decoration: none;">
+<a href="https://linkedin.com/in/addiscodr" style="margin-right: 20px; text-decoration: none;">
     <span style="
       display: inline-flex;
       align-items: center;
@@ -64,24 +64,10 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
            " />
     </span>
   </a>
-</p>
 
-<p align="left">
-  <a href="https://linkedin.com/in/addiscodr" style="margin-right: 20px; text-decoration: none;">
-    <span style="
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      width: 36px;
-      height: 36px;
-      background-color: #0A66C2;
-     // border-radius: 50%;
-    ">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg"
-           height="18"
-           style="filter: invert(1);" />
-    </span>
-  </a>
+
+
+  
 
   <a href="https://wa.me/251911108121" style="text-decoration: none;">
     <span style="
