@@ -46,13 +46,13 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 <p style="display: flex; align-items: center;">
   
-  <a href="https://linkedin.com/in/addiscodr" style="margin-right: 20px; text-decoration: none;">
+  <a href="https://linkedin.com/in/addiscodr" style="margin-right: 18px; text-decoration: none;">
     <span style="
       display: flex;
       align-items: center;
       justify-content: center;
-      width: 34px;
-      height: 34px;
+      width: 35px;
+      height: 35px;
       background-color: #0A66C2;
       border-radius: 8px;
     ">
