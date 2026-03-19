@@ -51,8 +51,8 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
       display: flex;
       align-items: center;
       justify-content: center;
-      width: 36px;
-      height: 36px;
+      width: 34px;
+      height: 34px;
       background-color: #0A66C2;
       border-radius: 8px;
     ">
