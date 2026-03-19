@@ -46,7 +46,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 <p style="display: flex; align-items: center;">
   
-  <a href="https://linkedin.com/in/addiscodr" style="margin-right: 18px; text-decoration: none;">
+  <a href="https://linkedin.com/in/addiscodr" style="margin-right: 18px; text-decoration: none;" target="_blank">
     <span style="
       display: flex;
       align-items: center;
@@ -66,7 +66,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
     </span>
   </a>  
 
-  <a href="https://wa.me/251911108121" style="text-decoration: none;">
+  <a href="https://wa.me/251911108121" style="text-decoration: none;" target="_blank">
     <span style="
       display: flex;
       align-items: center;
