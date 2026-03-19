@@ -46,7 +46,9 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 <p style="display: flex; align-items: center;">
   
-  <a href="https://linkedin.com/in/addiscodr" style="margin-right: 18px; text-decoration: none;" target="_blank;">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/
+esayas-f-gebresilasie-233b2233a
+" style="margin-right: 18px; text-decoration: none;" target="_blank;">
     <span style="
       display: flex;
       align-items: center;
