@@ -32,7 +32,8 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 | Flutter |   MongoDB     |     Riverpod      |  Git & GitHub  |
 | NodeJS  |    Isar    |     BloC      | ChatGPT   |  
 |         |  Sqflite       |    GetX             |    Gemini AI     |
-|         |     Hive       |                 |         |
+|         |     Hive       |                 |   Vim      |
+|         |                |                 |   Linux    |
 
 
                                                                
