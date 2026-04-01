@@ -33,7 +33,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 | NodeJS  |    Supabase    |     BloC      | ChatGPT   |  
 |         |     Isar    |    GetX             |    Gemini AI     |
 |         |     Sqflite       |                 |   Vim      |
-|         |       Hive         |                 |   Linux command line   |
+|         |       Hive         |                 |   The Linux Command Line   |
 
 
                                                                
