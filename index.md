@@ -13,7 +13,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 1. [<font color="black"><em>Task Manager</em> - Flutter, Hive</font>](https://github.com/addiscodr/todo_app){:target="_blank"}
 2. [<font color="black"><em>Weather Information</em> - Flutter, Riverpod, Dio, Geolocator</font>](https://github.com/addiscodr/addis_weather_v2){:target="_blank"}
 3. [<font color="black"><em>Movies Recommendation</em> - Flutter, TMDB API</font>](https://github.com/addiscodr/addis_movies/tree/main){:target="_blank"}
-4. [<font color="black"><em>Recipe Book</em> - Flutter, TMDB API</font>](https://github.com/addiscodr/recipe_book/tree/main){:target="_blank"}
+4. [<font color="black"><em>Recipe Book</em> - Flutter, TMDB API</font>](https://github.com/addiscodr/recipe-book/tree/main){:target="_blank"}
 5. [<font color="black"><em>Online Shopping</em> - Flutter, Stripe, http, Firebase Auth, Firebase Storage, Cloud Firestore</font>](https://github.com/addiscodr/addis_ecommerce){:target="_blank"}
 
 
