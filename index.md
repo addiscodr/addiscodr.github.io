@@ -34,8 +34,8 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 | Flutter |   MongoDB     |     Riverpod      |  Git & GitHub  |
 | NodeJS  |    Supabase    |     BloC      | ChatGPT   |  
 | ExpressJS       |     Isar    |    GetX             |    Gemini AI     |
-|         |    Sqlite, Sqflite       |                 |    Copilot     |
-|         |       Hive         |                 |   The Linux Command Line   |
+|  Jetpack Compose       |    Sqlite, Sqflite       |                 |    Copilot     |
+| Ktor        |       Hive         |                 |   The Linux Command Line   |
 
 
 
