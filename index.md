@@ -36,6 +36,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 | ExpressJS       |     Isar    |    GetX             |    Gemini AI     |
 |  Jetpack Compose       |    Sqlite, Sqflite       |                 |    Copilot     |
 | Ktor        |       Hive         |                 |   The Linux Command Line   |
+| Kotlin |     |        |   | 
 
 
 
