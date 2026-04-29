@@ -18,9 +18,6 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 6. [<font color="black"><em>Online Shopping</em> - Flutter, Stripe, http, Firebase Auth, Firebase Storage, Cloud Firestore</font>](https://github.com/addiscodr/addis_ecommerce){:target="_blank"}
 
 
-### 📲 Tech Contributions
-- [<font color="black">StackOverflow</font>](https://stackoverflow.com/users/29188362/esayas-f-gebresilasie){:target="_blank"}
-
 ###  🏆 Certifications
 - [<font color="black">Android Developer Fundamentals</font>](https://drive.google.com/file/d/1UjeESqg3jobyHNj9kSU57oYM49UW_hRT/view?usp=sharing){:target="_blank"}
 - [<font color="black">Programming Fundamentals</font>](https://drive.google.com/file/d/1vHmdOh2nMIMzkh4RmBYhPQY13tFYigyv/view?usp=sharing){:target="_blank"}
