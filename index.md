@@ -27,15 +27,15 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 | Languages and Frameworks | Databases       | State Management Tools | Other Dev Tools  |    
 | :---    | :-------:      |  :-----------:  | ----: |
-| Kotlin    | Firebase Authentication   |   |  Android Studio  |
-|  Jetpack Compose  | Cloud Firestore   |   |  VS Code |
-|   Dart  |  Ktor      |  Provider       | GitBash   |
-| Flutter | MongoDB |||
-| NodeJS  |   Supabase     |     Riverpod      |  Git & GitHub  |
-| ExpressJS  |        |     BloC      | ChatGPT   |  
-|        |     Isar    |    GetX             |    Gemini AI     |
-|       |    Sqlite, Sqflite       |                 |    Copilot     |
-|         |               |                 |   The Linux Command Line   |
+| Kotlin  | Firebase Firestore|           |  Android Studio  |
+|  Jetpack Compose| Cloud Firestore   |   |  VS Code |
+|   Dart  |  Ktor      |  Riverpod       | GitBash   |
+| Flutter | MongoDB   |  BloC       |   Git & GitHub     |
+| NodeJS  |   Supabase     |  GetX         |  ChatGPT  |
+| ExpressJS  |   Isar     |           |  Gemini AI  |  
+|        |   Sqlite      |                 |   Copilot      |
+|       |          |                 |  The Linux Command Line       |
+
 
 
 
