@@ -25,7 +25,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 ### 📺 Technological Skills
 
-| Languages and Frameworks | Databases       | State Management Tools | Other Dev Tools  |    
+| Languages and Frameworks | Databases & Networking       | State Management Tools | Other Dev Tools  |    
 | :---    | :-------:      |  :-----------:  | ----: |
 | Kotlin  | Firebase Firestore|    Riverpod        |  Android Studio  |
 |  Jetpack Compose| Cloud Firestore   | BloC  |  VS Code |
@@ -33,7 +33,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 | Flutter |  Supabase   |         |   Git & GitHub     |
 |  Ktor   |  Isar      |           |  ChatGPT  |
 | NodeJS   |  Sqlite     |           |  Gemini AI  |  
-|  ExpressJS      |         |                 |   Copilot      |
+|  ExpressJS      |     Retrofit    |                 |   Copilot      |
 |       |          |                 |  The Linux Command Line       |
 
 
