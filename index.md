@@ -31,10 +31,10 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 |  Jetpack Compose| Cloud Firestore   | BloC  |  VS Code |
 |   Dart  |  MongoDB    |   GetX     | GitBash   |
 | Flutter |  Supabase   |         |   Git & GitHub     |
-|  Ktor   |  Isar      |           |  ChatGPT  |
-| NodeJS   |  Sqlite     |           |  Gemini AI  |  
-|  ExpressJS      |     Retrofit    |                 |   Copilot      |
-|       |          |                 |  The Linux Command Line       |
+|  NodeJS  |  Isar      |           |  ChatGPT  |
+| ExpressJS   |  Sqlite     |           |  Gemini AI  |  
+|        |     Retrofit    |                 |   Copilot      |
+|       |     Ktor     |                 |  The Linux Command Line       |
 
 
 
