@@ -32,7 +32,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 | NodeJS    | Supabase     |  BloC      | GitBash   |
 | ExpressJS  |   Isar  |    GetX     |   Git & GitHub     |
 |    |   Sqlite     |           |  ChatGPT  |
-|    |       |           |  Gemini AI  |  
+|    |   Dio    |           |  Gemini AI  |  
 |        |         |                 |   Copilot      |
 |       |         |                 |  The Linux Command Line       |
 
