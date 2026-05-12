@@ -35,7 +35,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 |    |   Dio    |           |  Gemini AI  |  
 |        |         |                 |   Copilot      |
 |       |         |                 |  The Linux Command Line       |
-|       |         |                 |  Figma, Canva |
+|       |         |                 |  Figma  |
 
 
 
