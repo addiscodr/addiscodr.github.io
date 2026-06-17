@@ -16,7 +16,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 4. [<font color="black"><em>Recipe Book</em> - Flutter, DummyJSON API, Dio, HTTP, Firebase Firestore</font>](https://github.com/addiscodr/recipe-book/tree/main){:target="_blank"}
 5. [<font color="black"><em>Addis News</em> - Flutter and NewsAPI</font>](https://github.com/addiscodr/addis-news/tree/main){:target="_blank"}
 6. [<font color="black"><em>Online Shopping</em> - Flutter, Stripe, HTTP, Firebase Auth, Firebase Cloud Firestore</font>](https://github.com/addiscodr/addis_ecommerce){:target="_blank"}
-7. [<font color="black"><em>Movie Booking</em> - Node JS, Flutter, Stripe, HTTP, Firebase Auth, Firebase Cloud Firestore</font>](https://github.com/addiscodr/movie_booking_front){:target="_blank"}
+7. [<font color="black"><em>Movie Booking</em> - Node JS, Flutter, Stripe, HTTP, Firebase Auth, Firebase Cloud Firestore</font>](https://github.com/addiscodr/movie-booking-fullstack/tree/main/movie_booking_front){:target="_blank"}
 
 
 ###  🏆 Certifications
