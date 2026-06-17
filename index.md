@@ -26,7 +26,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 
 ### 📺 Technological Skills
 
-| Languages and Frameworks | Databases & Networking       | State Management Tools | Other Dev & Design Tools  |    
+| Languages and Frameworks | Databases & Networking       | State Management Tools | Other Dev Tools  |    
 | :---    | :-------:      |  :-----------:  | ----:        |
 |  Dart   | Firebase       |  Provider      |  VS Code  |
 |  Flutter |    Supabase          |  Riverpod  | Android Studio  |
@@ -36,7 +36,7 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 |    |    |           |  Gemini AI  |  
 |        |         |                 |   Copilot      |
 |       |         |                 |  The Linux Command Line       |
-|       |         |                 |  Figma  |
+
 
 
 
