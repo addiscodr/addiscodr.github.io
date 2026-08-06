@@ -30,12 +30,12 @@ I'm a **Flutter Mobile Developer** focused on building clean, scalable, and user
 | :---    | :-------:      |  :-----------:  | ----:        |
 |  Dart   | Firebase       |  Provider      |  VS Code  |
 |  Flutter |    Supabase          |  Riverpod  | Android Studio  |
-| NodeJS    |  Isar    |  BloC      | GitBash   |
-| ExpressJS  |   Sqflite   |    GetX     |   Git & GitHub     |
-|    |     Dio     |           |  ChatGPT  |
-|    |    |           |  Gemini AI  |  
-|        |         |                 |   Copilot      |
-|       |         |                 |  The Linux Command Line       |
+| NodeJS    |  Isar    |  BloC      | Git & GitHub   |
+| ExpressJS  |   Sqflite   |    GetX     |    ChatGPT    |
+|    |     Dio     |           |  Gemini AI  |
+|    |    |           |  Copilot   |  
+|        |         |                 |    The Linux Command Line    |
+
 
 
 
