@@ -34,6 +34,11 @@ I'm a **Flutter Mobile Developer** focused on building clean, scalable, and user
 | ExpressJS  |   Sqflite   |    GetX     |    ChatGPT    |
 |    |     Dio     |           |  Gemini AI  |
 |    |    |           |  Copilot   |  
+|   C#     |         |                 |        |
+|   WinForms     |         |                 |        |
+|   HTML     |         |                 |        |
+|   CSS     |         |                 |        |
+|    JavaScript    |         |                 |        |
 |        |         |                 |    The Linux Command Line    |
 
 
