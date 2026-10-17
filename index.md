@@ -4,8 +4,6 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 ###  💼 What I Do
 - App Development targeting Android platform
 - App Development targeting iOS platform
-- App Development targeting Windows platform
-- App Development targeting MacOS platform
 - App Development in networking environment 
 - App Development using REST APIs  
 - Full Stack App Development both for Android and iOS platforms
