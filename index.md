@@ -31,9 +31,9 @@ I'm a **Flutter Mobile App Developer** focused on building clean, scalable, and 
 |  Dart   | Firebase       |  Provider      |  VS Code  |
 |  Flutter |    Supabase          |  Riverpod  | Android Studio  |
 | NodeJS    |  Isar    |  BloC      |   Visual Studio |
-| ExpressJS  |   Sqflite   |    GetX     |  Git & GitHub      |
-|    C#  |     Dio     |           |  ChatGPT  |
-|  WinForms  |    |           | Gemini AI    |  
+| ExpressJS  |   SQL   |    GetX     |  Git & GitHub      |
+|    C#  |      Sqflite    |           |  ChatGPT  |
+|  WinForms  |   Dio |           | Gemini AI    |  
 |  JavaScript     |         |                 |     Copilot   |
 |   HTML     |         |                 |    The Linux Command Line    |
 |    CSS    |         |                 |        |
