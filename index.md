@@ -33,9 +33,9 @@ I'm a **Flutter Mobile App Developer** focused on building clean, scalable, and 
 | NodeJS    |  Isar    |  BloC      |   Visual Studio |
 | ExpressJS  |   SQL   |    GetX     |  Git & GitHub      |
 |    C#  |      Sqflite    |           |  ChatGPT  |
-|  WinForms  |   Dio |           | Gemini AI    |  
+|  WinForms  |  SQLite  |           | Gemini AI    |  
 |  JavaScript     |         |                 |     Copilot   |
-|   HTML     |         |                 |    The Linux Command Line    |
+|   HTML     |    Dio     |                 |    The Linux Command Line    |
 |    CSS    |         |                 |        |
 
 
