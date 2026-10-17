@@ -34,14 +34,14 @@ I'm a **Mobile App Developer** focused on building clean, scalable, and user-fri
 |  Flutter |    Supabase          |  Riverpod  | Android Studio  |
 | NodeJS    |  Isar    |  BloC      | Git & GitHub   |
 | ExpressJS  |   Sqflite   |    GetX     |    ChatGPT    |
-|    |     Dio     |           |  Gemini AI  |
-|    |    |           |  Copilot   |  
-|   C#     |         |                 |        |
-|   WinForms     |         |                 |        |
+|    C#  |     Dio     |           |  Gemini AI  |
+|  WinForms  |    |           |  Copilot   |  
+|  JavaScript     |         |                 |  The Linux Command Line      |
 |   HTML     |         |                 |        |
-|   CSS     |         |                 |        |
-|    JavaScript    |         |                 |        |
-|        |         |                 |    The Linux Command Line    |
+|    CSS    |         |                 |        |
+|        |         |                 |        |
+|       |         |                 |        |
+|        |         |                 |        |
 
 
 
