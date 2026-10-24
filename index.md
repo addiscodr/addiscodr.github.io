@@ -6,7 +6,7 @@ I'm a **Flutter Mobile App Developer** focused on building clean, scalable, and 
 - App Development targeting iOS platform
 - App Development in networking environment 
 - App Development using REST APIs  
-- Full Stack App Development both for Android and iOS platforms
+- Full Stack App Development, both for Android and iOS platforms
 - MVVM, Clean Architecture
   
 ###  🚀 Project Highlights and Technologies Used
