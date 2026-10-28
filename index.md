@@ -28,7 +28,7 @@ I'm a **Flutter Mobile Developer** focused on building clean, scalable, and user
 
 | Languages and Frameworks | Databases & Networking       | State Management Tools | Other Dev Tools  |    
 | :---    | :-------:      |  :-----------:  | ----:        |
-|  Dart   | Firebase       |  Provider      |  VS Code  |
+|  Dart   | Firebase, Cloud Firestore       |  Provider      |  VS Code  |
 |  Flutter |    Supabase          |  Riverpod  | Android Studio  |
 | NodeJS    |  Isar    |  BloC      |   Visual Studio |
 | ExpressJS  |   SQL Server, PostgreSQL, MySQL, SQLite  |    GetX     |  Git & GitHub      |
