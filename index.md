@@ -18,6 +18,8 @@ I'm a **Flutter Mobile Developer** focused on building clean, scalable, and user
 6. [<font color="black"><em>Online Shopping</em> - Flutter, Stripe, HTTP, Firebase Auth, Firebase Cloud Firestore</font>](https://github.com/addiscodr/addis_ecommerce){:target="_blank"}
 7. [<font color="black"><em>Movie Booking</em> - Node JS, Express JS, Flutter, Stripe, HTTP, Firebase Auth, Firebase Cloud Firestore</font>](https://github.com/addiscodr/movie-booking-fullstack/tree/main/movie_booking_front){:target="_blank"}
 ###  🏆 Published Apps
+- This app
+- That app
 
 ###  🏆 Certifications
 - [<font color="black">Android Developer Fundamentals</font>](https://drive.google.com/file/d/1UjeESqg3jobyHNj9kSU57oYM49UW_hRT/view?usp=sharing){:target="_blank"}
