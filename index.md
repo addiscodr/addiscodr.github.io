@@ -33,13 +33,14 @@ I'm a **A Mobile App Developer** focused on building clean, scalable, and user-f
 | :---    | :-------:      |  :-----------:  | ----:        |
 |  Dart   | Firebase, Cloud Firestore       |  Provider      |  VS Code  |
 |  Flutter |    Supabase          |  Riverpod  | Android Studio  |
-| NodeJS    |  Isar    |  BloC      |   Visual Studio |
+| NodeJS, Ktor   |  Isar    |  BloC      |   Visual Studio |
 | ExpressJS  |   SQL  |    GetX     |  Git & GitHub      |
 |    Kotlin  |   Dio       |           |  ChatGPT  |
 |  Jetpack Compose  |   Room |           | Gemini AI    |  
 |    JavaScript   |         |                 |     Copilot   |
 |   HTML     |         |                 |    The Linux Command Line    |
 |    CSS    |         |                 |        |
+
 
 
 
