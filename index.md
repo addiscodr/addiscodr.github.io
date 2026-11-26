@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Esayas
-I'm a **Flutter Mobile Developer** focused on building clean, scalable, and user-friendly applications.
+I'm a **A Mobile App Developer** focused on building clean, scalable, and user-friendly applications.
 
 ###  💼 What I Do
-- App Development targeting Android platform
-- App Development targeting iOS platform
+- Native App Development targeting Android platform using the Jetpack Compose framework
+- Multi Platform App Development targeting Android and iOS platforms using the Flutter framework
 - App Development in networking environment 
 - App Development using REST APIs  
 - Full Stack App Development
