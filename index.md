@@ -35,7 +35,7 @@ I'm a **A Mobile App Developer** focused on building clean, scalable, and user-f
 |  Flutter |    Supabase          |  Riverpod  | Android Studio  |
 | NodeJS, Ktor   |  Isar    |  BloC      |   Visual Studio |
 | ExpressJS  |   SQL  |    GetX     |  Git & GitHub      |
-|    Kotlin  |   Dio       |           |  ChatGPT  |
+|    Kotlin  |       |           |  ChatGPT  |
 |  Jetpack Compose  |   Room |           | Gemini AI    |  
 |    JavaScript   |         |                 |     Copilot   |
 |   HTML     |         |                 |    The Linux Command Line    |
