@@ -2,8 +2,8 @@
 I'm a **A Mobile App Developer** focused on building clean, scalable, and user-friendly applications.
 
 ###  💼 What I Do
-- Native App Development targeting Android platform using the Jetpack Compose framework
-- Multi Platform App Development targeting Android and iOS platforms using the Flutter framework
+- Native App Development targeting Android platform using Jetpack Compose framework
+- Multi-Platform App Development targeting Android and iOS platforms using Flutter framework
 - App Development in networking environment 
 - App Development using REST APIs  
 - Full Stack App Development
@@ -33,13 +33,14 @@ I'm a **A Mobile App Developer** focused on building clean, scalable, and user-f
 | :---    | :-------:      |  :-----------:  | ----:        |
 |  Dart   | Firebase, Cloud Firestore       |  Provider      |  VS Code  |
 |  Flutter |    Supabase          |  Riverpod  | Android Studio  |
-| NodeJS, Ktor   |  Isar    |  BloC      |   Visual Studio |
-| ExpressJS  |   SQL  |    GetX     |  Git & GitHub      |
-|    Kotlin  |       |           |  ChatGPT  |
-|  Jetpack Compose  |   Room |           | Gemini AI    |  
-|    JavaScript   |         |                 |     Copilot   |
-|   HTML     |         |                 |    The Linux Command Line    |
-|    CSS    |         |                 |        |
+| NodeJS    |  Isar    |  BloC      |  Git & GitHub  |
+| ExpressJS  |   SQLite  |    GetX     |   ChatGPT    |
+|    Kotlin  |   SQFlite    |           | Gemini AI   |
+|  Jetpack Compose  | SQLDelight   |           | The Linux Command Line    |  
+|    Ktor   |   Room Database     |                 |        |
+|  JavaScript      |         |                 |        |
+|   HTML5     |         |                 |        |
+|    CSS3       |         |                 |       |
 
 
 
